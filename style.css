@@ -1,0 +1,51 @@
+body {
+    background-color: #e9ecef;
+  }
+  
+  .items {
+    background-color: rgb(119, 116, 116);
+  }
+  
+  .item {
+    margin: 10px;
+    display: inline-block;
+    list-style-type: none;
+  }
+  
+  .item a {
+    color: rgb(252, 249, 241);
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .item_first a {
+    color: #fff !important;
+  }
+  
+  .item a:hover {
+    color: darkgrey;
+  }
+  
+  .ıcerik a {
+    color: #0d6efd;
+    text-decoration: none;
+  }
+  
+  .urun ul li {
+    list-style-position: inside;
+  }
+  
+  .button1 {
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+  }
+  
+  .card2 {
+    color: rgb(74, 70, 70);
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 3px;
+  }
